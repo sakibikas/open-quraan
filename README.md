@@ -1,1 +1,1 @@
-# commentary_of_quraan-in-the-chronological-order
+# commentary_on_quraan-in-the-chronological-order
