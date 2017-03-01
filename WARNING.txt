@@ -1,5 +1,8 @@
-This is an "amateur" attempt to interpret the Quraan on my own. The documents and the sources used here could be wrong and misleading.  Please get in touch with a Scholar/University that specialises in teaching Quraan to understand the accurate interpretation..
+This is an "amateur" attempt to interpret the Quraan on my own.
+The documents and the sources used here could be wrong and misleading.  Please refer to the master branch for final revision.
 
-Regards,
+ADVISORY:
+Please get in touch with a Scholar/University that specialises in teaching Quraan to understand the accurate interpretation..  I assume absolutely no responsibilty for any loss (worldly or hereafter) arising out of using this project ;)
 
-SA 01032017
+Best,
+SA 01032017 1941
